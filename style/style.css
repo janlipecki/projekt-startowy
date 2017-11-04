@@ -1,0 +1,12 @@
+p {
+    color: aqua;
+}
+ul > li.first {
+    color: red;
+}
+ul li {
+    color:bisque;
+}
+div + p {
+    color: darkcyan;
+}
